@@ -1,0 +1,8 @@
+tensorflow
+numpy
+librosa
+matplotlib
+jupyter
+pydot
+tensorflow-addons
+kapre
